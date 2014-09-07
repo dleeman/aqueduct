@@ -1,4 +1,4 @@
-BadApples::Application.routes.draw do
+Aqueduct::Application.routes.draw do
 namespace :api do
   resources :players, :defaults => { :format => 'json' }
 end

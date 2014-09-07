@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-BadApples::Application.config.session_store :cookie_store, key: '_bad-apples_session'
+Aqueduct::Application.config.session_store :cookie_store, key: '_aqueduct_session'

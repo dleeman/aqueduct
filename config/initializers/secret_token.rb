@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-BadApples::Application.config.secret_key_base = '3efd9239c898583dfbf78c3f762b9c3a3aeaacb61cd8a2c6f88c3b8d54c3c978b29b018d69a3691321924a2e249ee859d7fe63a72333a31c94d04eb520786585'
+Aqueduct::Application.config.secret_key_base = '3efd9239c898583dfbf78c3f762b9c3a3aeaacb61cd8a2c6f88c3b8d54c3c978b29b018d69a3691321924a2e249ee859d7fe63a72333a31c94d04eb520786585'
